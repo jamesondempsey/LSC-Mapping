@@ -2,9 +2,14 @@ LSC-Mapping
 ===========
 
 FILES: https://www.dropbox.com/sh/n75n32jmw11gfge/8VEY5ikG76
+
 Comparison of Drupal Mapping tools: https://drupal.org/node/1704948
+
 KML Data: lsntap.org/GIS_Data_GE_KML
+
 Zipcode Data: http://lsntap.org/GIS_Data_GE_Geocode
+
+
 
 The Legal Services Corporation has presented us with a compelling issue for legal hackers 
 with the potential to help many low-income individuals around the country. 
